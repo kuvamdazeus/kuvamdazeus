@@ -16,7 +16,6 @@ i draw my ideals from:
 companies i would (like to work in) [a-z]:
 - <INSERT_CURRENT_COMPANY_HERE>
 - apple
-- cloudflare
 - framework
 - oxide
 - redhat
